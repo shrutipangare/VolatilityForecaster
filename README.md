@@ -1,6 +1,6 @@
 # VolatilityForecaster - NLP-Augmented Market Risk Prediction 
 A machine learning system for predicting equity market volatility spikes 48 hours ahead using news sentiment signals and price-based technical features. The project combines natural language processing with time series modeling, deployed as an interactive analytics dashboard.
-https://volatilityforecaster-shruti.streamlit.app
+###https://volatilityforecaster-shruti.streamlit.app
 ---
 
 ## Motivation
